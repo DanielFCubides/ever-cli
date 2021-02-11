@@ -1,0 +1,4 @@
+thrift~=0.13.0
+oauth2~=1.9.0.post1
+evernote~=1.19
+setuptools~=49.2.1

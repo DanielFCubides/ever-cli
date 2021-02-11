@@ -17,7 +17,13 @@ This project is an evernote command line tool to find, create and edit notes
 ## Getting Started
 
 1. clone the project
-2. install dependencies
+2. install evernote for python3
+```shell
+git submodule add git@github.com:evernote/evernote-sdk-python3.git evernote
+cd evernote
+python evernote/setup.py install
+```
+3. 
 
 ### Prerequisites
 
